@@ -23,3 +23,11 @@ https://jamorajj.github.io/05-fec-Ping-Coming-Soon/
 # Huddle Landing Page
 
 https://jamorajj.github.io/06-fec-Huddle-Landing-Page/
+
+# Fylo Landing Page
+
+https://jamorajj.github.io/07-fec-Fylo-Landing-Page/
+
+# Huddle Landing Page Intro
+
+https://jamorajj.github.io/08-fec-Huddle-Landing-Page-Intro/

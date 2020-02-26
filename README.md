@@ -33,3 +33,13 @@ https://jamorajj.github.io/07-fec-Fylo-Landing-Page/
 ### Huddle Landing Page Intro
 
 https://jamorajj.github.io/08-fec-Huddle-Landing-Page-Intro/
+
+## Junior Challenges
+
+### Insure Landing Page Intro
+
+https://jamorajj.github.io/09-fec-Insure-Landing-Page/
+
+### Pricing Component Toggle
+
+https://jamorajj.github.io/10-fec-Pricing-Component-Toggle/

@@ -47,3 +47,7 @@ https://jamorajj.github.io/10-fec-Pricing-Component-Toggle/
 ### Project Tracking Intro
 
 https://jamorajj.github.io/11-fec-Project-Tracking-Intro/
+
+### Clipboard Landing Pagee
+
+https://jamorajj.github.io/12-fec-Clipboard-Landing-Page/

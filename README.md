@@ -55,3 +55,7 @@ https://jamorajj.github.io/12-fec-Clipboard-Landing-Page/
 ### Fylo Dark Theme Landing
 
 https://jamorajj.github.io/13-fec-Fylo-Dark-Theme-Landing/
+
+### Huddle Landing Page with Curves
+
+https://jamorajj.github.io/14-fec-Huddle-Landing-Page-Curves/
